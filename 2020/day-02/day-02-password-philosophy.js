@@ -37,10 +37,10 @@ function checkValidity() {
     })
 
     // problem #1 answer
-    // return validPaswordsOne.length
+    return validPaswordsOne.length
     
     // problem #2 answer
-    return validPaswordsTwo.length
+    // return validPaswordsTwo.length
 
 }
 
